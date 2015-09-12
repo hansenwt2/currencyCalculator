@@ -11,7 +11,7 @@ var currencyObjectCollection = [];
  */
 
 var convertMoney = function(value) {
-
+	// loops loops and more loops
 };
 
 /**
